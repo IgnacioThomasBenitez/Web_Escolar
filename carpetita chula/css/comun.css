@@ -26,7 +26,6 @@ header{
     display: flex;
     position: fixed;
     align-items: center;
-    justify-content: space-between;
     background-color: transparent;
     transition: all 0.5s ease;
 }
@@ -46,7 +45,7 @@ header{
 
 .barra.active a:hover{
     background: #fff;
-    color: #000;
+    color: #e40202;
 }
 
 
@@ -65,11 +64,11 @@ header{
 
 .menu{
     display: flex;
+    margin-left: 50%;
 }
 
 .menu li{
     list-style: none;
-    margin: 0.6rem;
 }
 
 .menu li a{
@@ -105,6 +104,15 @@ header{
     font-size: 4rem;
     
 }
+
+.eests{
+    text-align: center;
+    margin-top: -70px;
+    padding-top: 20rem;
+    font-size: 2rem;
+    justify-self: center;
+}
+
 .eest h3{
     text-align: center;
     font-size: 1.4rem;
