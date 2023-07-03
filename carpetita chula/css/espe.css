@@ -1,8 +1,9 @@
 .tarjetas{
     display: flex;
     align-items: center;
-    margin-left: 12%;
+    justify-content: center;
 }
+
 
 .card{
     align-items: center;

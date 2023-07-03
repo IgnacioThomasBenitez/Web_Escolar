@@ -54,13 +54,13 @@ ul li:hover .dropdown-menu ul {
 }
 
 ul li:hover .dropdown-menu ul li {
-  width: 150px;
+  width: 200px;
   padding: 10px;
 }
 
 .dropdown-menu-1 {
   display: none;
-  width: 250px;
+  width: 200px;
   border-radius: 2em;
 }
 
@@ -72,3 +72,9 @@ ul li:hover .dropdown-menu ul li {
   background-color: var(--color-black);
 }
 
+.mesa{
+  height: 100%;
+  margin: auto;
+  background: #ffffff38;
+  align-items: center;
+}

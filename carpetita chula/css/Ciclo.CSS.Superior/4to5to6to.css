@@ -1,7 +1,9 @@
 .container1{
     width: 90%;
     margin: auto;
-    margin-left: 12%;
+    align-items: center;
+    justify-content: center;
+    margin-left: 11%;
 }
 
 .container1 ul{
